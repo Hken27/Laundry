@@ -1,4 +1,4 @@
-# ⚡🧺 R2 KILAT
+# 🧺 R2 KILAT
 
 ### Smart service made simple  
 **⚡ Fast • 🧼 Clean • 📱 Simple**
